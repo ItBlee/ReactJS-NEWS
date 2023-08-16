@@ -1,0 +1,30 @@
+{
+  "name": "reactjs_news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlE-dip/ReactJS_News.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlE-dip/ReactJS_News/issues"
+  },
+  "homepage": "https://github.com/AlE-dip/ReactJS_News#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "interweave": "^13.0.0",
+    "node-html-parser": "^5.3.3",
+    "react": "^17.0.2",
+    "react-async": "^10.0.1",
+    "react-router-dom": "^5.3.0",
+    "request": "^2.88.2",
+    "xml2js": "^0.4.23"
+  }
+}
